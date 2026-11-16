@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Memory Maker
+
+**Embryo Memory Maker** is Embryo-Zero's fork of [OpenRAM](https://github.com/VLSIDA/OpenRAM), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 ![](https://raw.githubusercontent.com/VLSIDA/OpenRAM/stable/images/OpenRAM_logo_yellow_transparent.svg)
 # OpenRAM
 
